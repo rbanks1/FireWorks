@@ -7,7 +7,7 @@ var arrayStems = [];
 var thisTimer = setInterval(() => {
   var itemStem = new stem();
   append(arrayStems, itemStem);
-}, 150);
+}, 20);
 
 var Y_AXIS = 1;
 var X_AXIS = 2;
